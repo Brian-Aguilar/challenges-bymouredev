@@ -16,4 +16,5 @@ Repositorio creado para realizar los retos de programación hechos en la página
 
 | Numero | Fecha publicada | Fecha Resuelta | Link |
 | :--- | :---: | :---: | :---|
-| **#0** | `27/12/21` | `00/00/22` | [FIZZ BUZZ](https://github.com/Brian-Aguilar/challenges-bymouredev/tree/main/0.FIZZ%20BUZZ)|
+| **#0** | `27/12/21` | `23/10/22` | [FIZZ BUZZ](https://github.com/Brian-Aguilar/challenges-bymouredev/tree/main/0.FIZZ%20BUZZ)|
+| **#1** | `23/01/22` | `00/00/22` | [ANAGRAMA](https://github.com/Brian-Aguilar/challenges-bymouredev/tree/main/0.FIZZ%20BUZZ)|
